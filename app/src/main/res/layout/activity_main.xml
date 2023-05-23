@@ -27,7 +27,7 @@
         android:layout_below="@+id/logo"
         android:layout_marginTop="100sp"
         android:layout_marginHorizontal="50sp"
-        android:backgroundTint="@color/colorAccent"
+        android:backgroundTint="#9C7BA5"
         android:inputType="textPersonName"
         android:textColor="@color/textColor"
         android:textColorHint="@color/textColorHint"
@@ -39,7 +39,7 @@
         android:layout_below="@+id/user_field"
         android:layout_marginTop="20sp"
         android:layout_marginHorizontal="130sp"
-        android:backgroundTint="@color/colorAccent"
+        android:backgroundTint="#871425"
         android:text="@string/main_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -52,7 +52,7 @@
         android:layout_marginTop="50sp"
         android:fontFamily="@font/montserrat_bold"
         android:textAlignment="center"
-        android:textColor="@color/textColorHint"
+        android:textColor="#504747"
         android:textSize="25sp" />
 
 </RelativeLayout>
